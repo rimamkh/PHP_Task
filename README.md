@@ -1,3 +1,14 @@
+<h4>Introduction<h4>
+
+API stands for “Application Programming Interface.” An API is the messenger that delivers your request to the provider that you're requesting it from and then delivers the response back to you.
+<h4>Authentication<h4>
+
+Authentication is the process of recognizing a user's identity.It is the mechanism of associating an incoming request with a set of identifying credentials. The credentials provided are compared to those on a file in a database of the authorized user’s information on a local operating system or within an authentication server.
+<h4>Autherization<h4>
+
+Authorization happens after a user’s identity has been successfully authenticated. It is about offering full or partial access rights to resources like database, funds, and other critical information to get the job done.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
