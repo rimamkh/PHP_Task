@@ -9,7 +9,33 @@ Authentication is the process of recognizing a user's identity.It is the mechani
 Authorization happens after a user’s identity has been successfully authenticated. It is about offering full or partial access rights to resources like database, funds, and other critical information to get the job done.
 
 <h2 style="color:green">GET</h2> <h4>Product list</h4>
-<a href="#" style="color:black">http://127.0.0.1:8000/api/productlist<;/a>
+<a href="#" style="color:black">http://127.0.0.1:8000/api/productlist</a>
+<br>
+<table>
+  <tr>
+    <th>Authorization</th>
+    <th>Bearer Token</th
+  </tr>
+  <tr>
+    <td>Accept</td>
+    <td>application/json</td>
+  </tr>
+</table>
+<h2 style="color:green">GET</h2> <h4>Product Types</h4>
+<a href="#" style="color:black">http://127.0.0.1:8000/api/productType</a>
+<br>
+<table>
+  <tr>
+    <th>Authorization</th>
+    <th>Bearer Token</th
+  </tr>
+  <tr>
+    <td>Accept</td>
+    <td>application/json</td>
+  </tr>
+</table>
+<h2 style="color:green">GET</h2> <h4>Product Colors</h4>
+<a href="#" style="color:black">http://127.0.0.1:8000/api/productColor</a>
 <br>
 <table>
   <tr>
