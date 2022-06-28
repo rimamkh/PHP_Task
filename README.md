@@ -36,7 +36,7 @@ Authorization happens after a user’s identity has been successfully authentica
  
  
 <h2 style="color:orange">POST</h2> <h4> Login request</h4>
-<a href="#" style="color:black">http://127.0.0.1:8000/api/register<;/a>
+<a href="#" style="color:black">http://127.0.0.1:8000/api/register</a>
 <br>
   <table>
   <tr>
