@@ -8,6 +8,53 @@ Authentication is the process of recognizing a user's identity.It is the mechani
 
 Authorization happens after a user’s identity has been successfully authenticated. It is about offering full or partial access rights to resources like database, funds, and other critical information to get the job done.
 
+<h2 style="color:orange">POST</h2> <h4>Register request</h4>
+<a href="#" style="color:black">http://127.0.0.1:8000/api/register</a>
+ 
+  <table>
+  <tr>
+    <td>Accept</td>
+    <td>application/json</td>
+  </tr>
+  <tr>
+    <td>name</td>
+    <td>Rima Mkhalalati</td>
+  </tr>
+  <tr>
+    <td>email</td>
+    <td>example@gmail.com</td>
+  </tr>
+  <tr>
+    <td>password</td>
+    <td>example12345</td>
+  </tr>
+  <tr>
+    <td>password_confirmation</td>
+    <td>example12345</td>
+  </tr>
+</table>
+ 
+ 
+<h2 style="color:orange">POST</h2> <h4> Login request</h4>
+<a href="#" style="color:black">http://127.0.0.1:8000/api/register<;/a>
+<br>
+  <table>
+  <tr>
+    <td>Accept</td>
+    <td>application/json</td>
+  </tr>
+ 
+  <tr>
+    <td>email</td>
+    <td>example@gmail.com</td>
+  </tr>
+  <tr>
+    <td>password</td>
+    <td>example12345</td>
+  </tr>
+ 
+ </table>
+ 
 <h2 style="color:green">GET</h2> <h4>Product list</h4>
 <a href="#" style="color:black">http://127.0.0.1:8000/api/productlist</a>
 <br>
